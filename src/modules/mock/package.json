@@ -1,0 +1,12 @@
+{
+  "name": "mock",
+  "version": "1.0.0",
+  "aimee": "app",
+  "description": "用于处理模拟数据",
+  "main": "mock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

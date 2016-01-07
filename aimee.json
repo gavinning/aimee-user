@@ -1,0 +1,27 @@
+{
+  "name": "user",
+  "version": "1.0.0",
+  "description": "",
+  "author": "gavinning",
+  "keywords": "",
+  "dependencies": {
+    "is": "~1.0.0",
+    "aimee": "~1.0.4",
+    "mock": "~1.0.0",
+    "helloworld": "~0.0.5",
+    "pm": "~1.0.1",
+    "base": "~1.0.4",
+    "guid": "~1.0.0",
+    "zepto": "~1.0.1",
+    "config": "~1.2.0",
+    "extend": "~1.0.0",
+    "router": "~1.0.0",
+    "loading": "~1.0.0",
+    "swipe": "~1.0.0",
+    "page": "~1.0.6",
+    "app": "~1.0.7",
+    "class": "~1.0.0",
+    "autoscreen": "~2.0.0",
+    "reset": "~1.0.3"
+  }
+}

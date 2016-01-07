@@ -1,0 +1,20 @@
+{
+  "name": "config",
+  "version": "1.2.0",
+  "description": "管理配置文件, config",
+  "author": "gavinning",
+  "keywords": [
+    "config",
+    "vpm-config"
+  ],
+  "repository": {
+    "type": "git",
+    "repository": "http://github.com/aimeejs/config.git",
+    "bugs": "http:/github.com/aimeejs/config/issues"
+  },
+  "dependencies": {
+    "is": "^1.0.0",
+    "extend": "^1.0.0",
+    "class": "^1.0.0"
+  }
+}

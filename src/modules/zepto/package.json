@@ -1,0 +1,12 @@
+{
+  "name": "zepto",
+  "version": "1.0.1",
+  "aimee": "app",
+  "description": "zepto",
+  "main": "zepto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

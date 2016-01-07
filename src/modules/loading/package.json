@@ -1,0 +1,12 @@
+{
+  "name": "loading",
+  "version": "1.0.0",
+  "aimee": "app",
+  "description": "",
+  "main": "loading.less",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

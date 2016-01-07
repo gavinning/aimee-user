@@ -1,0 +1,31 @@
+{
+    "name": "config",
+    "aimee": "app",
+    "description": "管理配置文件, config",
+    "main": "config.js",
+    "version": "1.2.0",
+    "scripts": {
+        "test": "uz -v"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Aimeejs/config.git"
+    },
+    "keywords": [
+        "config",
+        "aimee",
+        "aimee-app",
+        "uz"
+    ],
+    "author": "gavinning",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/Aimeejs/config/issues"
+    },
+    "homepage": "https://github.com/Aimeejs/config",
+    "dependencies": {
+        "aimee-is": "^1.0.0",
+        "aimee-extend": "^1.0.0",
+        "aimee-class": "^1.0.0"
+    }
+}

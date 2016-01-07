@@ -1,0 +1,14 @@
+{
+  "name": "user",
+  "version": "1.0.0",
+  "description": "user system",
+  "main": "user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gavinning",
+  "license": "ISC",
+  "dependencies": {
+    "thenjs": "^2.0.2"
+  }
+}

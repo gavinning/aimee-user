@@ -1,0 +1,21 @@
+{
+    "name": "helloworld",
+    "aimee": "app",
+    "version": "0.0.5",
+    "description": "Aimeejs的helloworld模块",
+    "main": "helloworld.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Aimeejs/helloworld.git"
+    },
+    "keywords": [
+        "helloworld"
+    ],
+    "author": "gavinning",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/Aimeejs/helloworld/issues"
+    },
+    "homepage": "https://github.com/Aimeejs/helloworld",
+    "dependencies": {}
+}

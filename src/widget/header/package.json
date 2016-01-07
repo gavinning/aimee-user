@@ -1,0 +1,21 @@
+{
+    "name": "header",
+    "aimee": "app",
+    "version": "1.0.0",
+    "description": "Aimeejs的header模块",
+    "main": "header.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Aimeejs/header.git"
+    },
+    "keywords": [
+        "header"
+    ],
+    "author": "somebody",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/Aimeejs/header/issues"
+    },
+    "homepage": "https://github.com/Aimeejs/header",
+    "dependencies": {}
+}

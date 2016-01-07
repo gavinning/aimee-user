@@ -1,0 +1,27 @@
+{
+    "name": "guid",
+    "aimee": "app",
+    "description": "Aimeejs的guid模块",
+    "main": "guid.js",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "uz -v"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Aimeejs/guid.git"
+    },
+    "keywords": [
+        "guid",
+        "aimee",
+        "aimee-guid",
+        "uz"
+    ],
+    "author": "gavinning",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/Aimeejs/guid/issues"
+    },
+    "homepage": "https://github.com/Aimeejs/guid",
+    "dependencies": {}
+}

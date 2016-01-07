@@ -1,0 +1,21 @@
+{
+    "name": "swipe",
+    "aimee": "app",
+    "version": "1.0.0",
+    "description": "Aimeejs的swipe模块，基于swipejs@2.0优化版制作",
+    "main": "swipe.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Aimeejs/swipe.git"
+    },
+    "keywords": [
+        "swipe"
+    ],
+    "author": "gavinning",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/Aimeejs/swipe/issues"
+    },
+    "homepage": "https://github.com/Aimeejs/swipe",
+    "dependencies": {}
+}
